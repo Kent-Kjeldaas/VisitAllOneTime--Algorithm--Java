@@ -1,7 +1,5 @@
 # Visit All Nodes In A System Once
 
-Algorithm-Java
-
 This project contains an algorithm coded in java for jumping through all the nodes of a system only once. The return value is a boolean, true if such a path is possible in the system and false if not. 
 
 ## Summary
